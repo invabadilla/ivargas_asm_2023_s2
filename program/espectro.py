@@ -21,6 +21,9 @@ plt.colorbar(format='%+2.0f dB')
 plt.title('Espectrograma de Magnitud')
 plt.show()
 
+# Guardar la imagen en formato PNG
+plt.savefig('espectrograma_magnitud.png', bbox_inches='tight')
+
 # Visualizar el espectrograma de fase
 plt.figure(figsize=(12, 6))
 librosa.display.specshow(phase, y_axis='log', x_axis='time', cmap='twilight')
@@ -29,4 +32,4 @@ plt.title('Espectrograma de Fase')
 plt.show()
 
 # Guardar la imagen en formato PNG
-plt.savefig('espectrograma.png', bbox_inches='tight')
+plt.savefig('espectrograma_fase.png', bbox_inches='tight')
