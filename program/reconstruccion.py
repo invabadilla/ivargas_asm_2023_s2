@@ -40,6 +40,7 @@ plt.title('Señal Reconstruida y Señal Original')
 plt.tight_layout()
 
 plt.show()
-
+plt.figure()
 # Guardar la imagen en formato PNG
-plt.savefig('reconstruccion.png', bbox_inches='tight')
+plt.savefig('espectrograma.png', format='png', bbox_inches='tight')
+
