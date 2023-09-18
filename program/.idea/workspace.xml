@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3765bcf9-32bf-4380-95fa-ee3650b074d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/reconstruccion.png" beforeDir="false" afterPath="$PROJECT_DIR$/reconstruccion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efectos.py" beforeDir="false" afterPath="$PROJECT_DIR$/efectos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/espectro.py" beforeDir="false" afterPath="$PROJECT_DIR$/espectro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/espectrograma.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/reconstruccion.py" beforeDir="false" afterPath="$PROJECT_DIR$/reconstruccion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +87,8 @@
       <updated>1694693446202</updated>
       <workItem from="1694693447293" duration="4008000" />
       <workItem from="1694699744652" duration="614000" />
-      <workItem from="1694795493574" duration="323000" />
+      <workItem from="1694795493574" duration="602000" />
+      <workItem from="1695005188768" duration="6976000" />
     </task>
     <servers />
   </component>
@@ -92,11 +96,13 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/workspace_xml$efectos.coverage" NAME="efectos Coverage Results" MODIFIED="1694700090419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/workspace_xml$espectro.coverage" NAME="espectro Coverage Results" MODIFIED="1694795532724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/workspace_xml$reconstruccion.coverage" NAME="reconstruccion Coverage Results" MODIFIED="1694795815779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$efectos.coverage" NAME="efectos Coverage Results" MODIFIED="1695009673407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$espectro.coverage" NAME="espectro Coverage Results" MODIFIED="1695007943751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$reconstruccion.coverage" NAME="reconstruccion Coverage Results" MODIFIED="1695009911041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$as.coverage" NAME="as Coverage Results" MODIFIED="1695006611770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/program$efecto_fase.coverage" NAME="efecto fase Coverage Results" MODIFIED="1694693908648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/program$rebuild.coverage" NAME="rebuild Coverage Results" MODIFIED="1694697254685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/program$spect.coverage" NAME="spect Coverage Results" MODIFIED="1694697189261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$enhance.coverage" NAME="enhance Coverage Results" MODIFIED="1695012498030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
